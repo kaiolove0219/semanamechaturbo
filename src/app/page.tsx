@@ -192,7 +192,7 @@ export default function Home() {
           <div className="animate-on-scroll flex flex-col items-center gap-4">
             <div className="flex items-baseline gap-3">
               <span className="price-original text-lg">R$ 29,90</span>
-              <span className="text-4xl md:text-5xl font-black gold-text">R$ 26,90</span>
+              <span className="text-4xl md:text-5xl font-black gold-text">R$ 24,90</span>
             </div>
             <a
               href={PAYMENT_URL}
@@ -323,7 +323,7 @@ export default function Home() {
                 </div>
                 <div className="flex items-center justify-between">
                   <span className="text-white font-bold">Hoje por apenas:</span>
-                  <span className="text-3xl font-black gold-text">R$ 26,90</span>
+                  <span className="text-3xl font-black gold-text">R$ 24,90</span>
                 </div>
               </div>
             </div>
@@ -403,7 +403,7 @@ export default function Home() {
             <span className="gold-shimmer">cabelos de rainha?</span>
           </h2>
           <p className="text-white/60 text-lg mb-10 leading-relaxed">
-            Junte-se a mais de 2.400 mulheres que já descobriram os segredos das mechas perfeitas. O investimento é de apenas <strong className="text-white">R$ 26,90</strong> e os resultados duram para sempre.
+            Junte-se a mais de 2.400 mulheres que já descobriram os segredos das mechas perfeitas. O investimento é de apenas <strong className="text-white">R$ 24,90</strong> e os resultados duram para sempre.
           </p>
 
           <div className="flex flex-col items-center gap-6">
@@ -414,7 +414,7 @@ export default function Home() {
               className="cta-button flex items-center gap-3 px-12 md:px-16 py-5 md:py-6 rounded-full text-base md:text-lg font-black tracking-widest pulse-glow"
             >
               <ShoppingCart size={22} />
-              COMPRAR AGORA — R$ 26,90
+              COMPRAR AGORA — R$ 24,90
               <ArrowRight size={22} />
             </a>
 
